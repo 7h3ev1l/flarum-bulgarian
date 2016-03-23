@@ -8,10 +8,8 @@
 		"flarum/core": "^0.1.0-beta.4",
 		"7h3ev1l/flarum-bulgarian": "*@dev"
 	},
-	"7h3ev1l/flarum-bulgarian": "*@dev",
 	"minimum-stability": "beta",
     "extra": {
-		"7h3ev1l/flarum-bulgarian": "*@dev",
         "flarum-extension": {
             "title": "Bulgarian",
             "icon": {
