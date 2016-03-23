@@ -1,11 +1,11 @@
 {
     "name": "7h3ev1l/flarum-bulgarian",
     "type": "flarum-extension",
-	"7h3ev1l/flarum-bulgarian": "*@dev",
     "description": "Bulgarian language pack.",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
+		"7h3ev1l/flarum-bulgarian": "*@dev",
         "flarum/core": "^0.1.0-beta.3"
     },
     "extra": {
