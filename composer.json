@@ -4,10 +4,13 @@
     "description": "Bulgarian language pack.",
     "keywords": ["locale"],
     "license": "MIT",
-    "require-dev": {
+    "require": {
         "flarum/core": "^0.1.0-beta.3"
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
         "flarum-extension": {
             "title": "Bulgarian",
             "icon": {
