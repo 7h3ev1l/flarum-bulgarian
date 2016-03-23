@@ -11,7 +11,6 @@
 	"7h3ev1l/flarum-bulgarian": "*@dev",
 	"minimum-stability": "beta",
     "extra": {
-		"7h3ev1l/flarum-bulgarian": "*@dev",
         "flarum-extension": {
             "title": "Bulgarian",
             "icon": {
