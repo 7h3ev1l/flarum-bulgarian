@@ -45,16 +45,16 @@ core:
 
     # These strings are used in the Edit Group modal dialog.
     edit_group:
-      color_label: Color
+      color_label: Цвят
       delete_button: Delete Group
       delete_confirmation: "Are you sure you want to delete this group? The group members will NOT be deleted."
-      icon_label: Icon
+      icon_label: Икона
       icon_text: "Enter the name of any <a>FontAwesome</a> icon class, <em>without</em> the <code>fa-</code> prefix."
-      name_label: Name
+      name_label: Име
       plural_placeholder: Plural (e.g. Mods)
       singular_placeholder: Singular (e.g. Mod)
       submit_button: => core.ref.save_changes
-      title: Create Group
+      title: Нова група
 
     # These strings are used in the Extensions page.
     extensions:
