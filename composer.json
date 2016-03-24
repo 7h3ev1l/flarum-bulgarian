@@ -8,9 +8,6 @@
 		"flarum/core": "^0.1.0-beta.4"
 	},
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.2-dev"
-        },
         "flarum-extension": {
             "title": "Bulgarian",
             "icon": {
