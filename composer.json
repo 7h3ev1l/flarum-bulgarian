@@ -9,7 +9,7 @@
 	},
     "extra": {
         "branch-alias": {
-            "dev-master": "1.2"
+            "dev-master": "1.2.x-dev"
         },
         "flarum-extension": {
             "title": "Bulgarian",
