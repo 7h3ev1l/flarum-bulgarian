@@ -6,9 +6,11 @@
     "license": "MIT",
 	"require": {
 		"flarum/core": "^0.1.0-beta.4",
-		"7h3ev1l/flarum-ext-bulgarian": "*@dev"
 	},
     "extra": {
+        "branch-alias": {
+            "dev-master": "1.2"
+        },
         "flarum-extension": {
             "title": "Bulgarian",
             "icon": {
