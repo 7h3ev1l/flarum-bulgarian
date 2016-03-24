@@ -5,9 +5,12 @@
     "keywords": ["locale"],
     "license": "MIT",
 	"require": {
-		"flarum/core": "^0.1.0-beta.4",
+		"flarum/core": "^0.1.0-beta.4"
 	},
     "extra": {
+        "branch-alias": {
+            "dev-master": "1.2"
+        },
         "flarum-extension": {
             "title": "Bulgarian",
             "icon": {
